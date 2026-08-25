@@ -1,7 +1,7 @@
 # Rede de Computadores para o Centro de Pesquisas ABC
 
 Projeto e implementação simulada de uma infraestrutura de rede segmentada, segura e escalável para um centro de pesquisas fictício composto por duas instalações: a **Unidade Administrativa** e o **Campo de Provas**, situado a 4 km de distância.
-Projeto de Extensão V — Engenharia da Computação e Ciência da Computação, Universidade Veiga de Almeida (2025/1).
+Projeto de Extensão IV — Engenharia da Computação e Ciência da Computação, Universidade Veiga de Almeida (2025/1).
 
 ---
 
